@@ -5,13 +5,13 @@
 「正常に文字起こしされなかった部分を修正すれば滑舌を改善できるのでは」の考えのもと制作。<br>
 GUIアプリとして実行し簡単に操作できるように。<br>
 ## 使用ライブラリ
-・PyAudio
-・speech_recognition
-・Google Text-to-Speech
-・Pygame
-・tkinter
+・PyAudio<br>
+・speech_recognition<br>
+・Google Text-to-Speech<br>
+・Pygame<br>
+・tkinter<br>
 ## 使用API
-・YahooAPI 校正支援
+・YahooAPI 校正支援<br>
 ## 参考サイト
 ・マイクの音を録音してWAVEファイルに保存  https://algorithm.joho.info/programming/python/pyaudio-record/<br>
 ・ElementTreeを使ってXMLの解析に挑戦しよう  https://www.sejuku.net/blog/74013<br>
